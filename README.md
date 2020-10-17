@@ -1,2 +1,2 @@
-# website
+# web
 The zkMultisig Website
