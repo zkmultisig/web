@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "zkMULTISIG",
+    "description": "",
+    "home_page_url": "https://zkmultisig.com",
+    "feed_url": "https://zkmultisig.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "zkMultisig"
+    },
+    "items": [
+        {
+            "id": "https://zkmultisig.com/deux-ex-machina.html",
+            "url": "https://zkmultisig.com/deux-ex-machina.html",
+            "title": "Deux Ex Machina",
+            "summary": "Deus ex machina, meaning 'god from the machine,' is a divine figure&hellip;",
+            "content_html": "<p>Deus ex machina, meaning 'god from the machine,' is a divine figure that appears out of the blue to provide a magical solution to a hopeless problem.<br><br>This 500 BC Greek/Roman dramatic device utilized the timely appearance of a god to resolve the plot complications. The god usually appeared in the sky with the help of a 'mechane,' or crane.<br><br>Aeschylus, Sophocles and Euripides, were all Deus ex machina fans. The plays Eumenides, Philoctetes and Medea, all use divine intervention to solve a crisis.<br><br>The Deus Ex Machina artwork is a harbinger of happy times. Not wishful thinking, this pièce de résistance believes what worked for ancient drama will work for the modern. This NFT assures you, the cavalry is indeed coming because you are the cavalry.</p>",
+            "image": "https://zkmultisig.com/media/posts/1/deux_ex_machina.gif",
+            "author": {
+                "name": "zkMultisig"
+            },
+            "tags": [
+                   "NFT",
+                   "ERC721",
+                   "Cryptoart"
+            ],
+            "date_published": "2020-10-11T22:37:34-07:00",
+            "date_modified": "2020-11-01T02:37:24-08:00"
+        }
+    ]
+}
